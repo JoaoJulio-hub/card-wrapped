@@ -5,6 +5,6 @@
 <ul>
   <li>Learn about bank APIs (CGD, CTT, etc...)</li>
   <li>Make the landing page</li>
-  <li>Learn about transitaions and more animations with React</li>
+  <li>Learn about transitions and more animations with React</li>
   <li>More goals to be set</li>
 <ul>
